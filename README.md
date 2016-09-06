@@ -2,7 +2,7 @@
 Arduino project for electrical lock with keyboard and NFC/RFID-reader
 
 Hardware:
-  * Arduino UNO
+  * Arduino 101 or UNO/micro/nano/mega/etc... with ATmega328,ATmega168,ATmega8,ATmega1280 or ATmega2560 processor.
   * MFRC522
   * Simple keypad 4x4
   * key or switch ('program key')
